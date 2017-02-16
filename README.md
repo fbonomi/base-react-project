@@ -1,0 +1,1 @@
+My base react project (react-router, redux, localStorage, flexbox, custom middleware, ...)
